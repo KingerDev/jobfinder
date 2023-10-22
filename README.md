@@ -1,7 +1,7 @@
 # JobFinder - Your Career Hub
 
 ## Overview
-JobSearch is a powerful web application that simplifies the job search process, connecting job seekers with companies offering opportunities. Built with Laravel, Blade, and Tailwind CSS, it offers a seamless and intuitive experience for both job seekers and employers.
+JobFinder is a powerful web application that simplifies the job search process, connecting job seekers with companies offering opportunities. Built with Laravel, Blade, and Tailwind CSS, it offers a seamless and intuitive experience for both job seekers and employers.
 
 ## Key Features
 - **User Registration and Authentication**: Job seekers and employers can create accounts and access personalized features.
